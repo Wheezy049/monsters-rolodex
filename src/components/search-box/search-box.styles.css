@@ -3,7 +3,11 @@
   border: none;
   outline: none;
   padding: 10px;
-  width: 150px;
+  width: 300px;
   line-height: 30px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
   margin-bottom: 30px;
+  border-radius: 8px;
 }
